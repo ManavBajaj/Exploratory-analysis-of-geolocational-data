@@ -1,5 +1,4 @@
 # GeoScope: Exploratory Analysis of Geolocational Data  
-**Smarter Cities. Better Living.**
 
 GeoScope is an interactive web application designed to analyze and visualize geolocational data with a focus on food preferences and apartment locality. Built using Streamlit, this tool leverages clustering algorithms to reveal spatial patterns in food-related amenities—assisting students, urban planners, and businesses in making data-driven decisions.
 
